@@ -4,4 +4,4 @@ console.log(name);
 name = "Juan";
 console.log(name);
 
-console.log("Hola mundo");
+console.log("Hola mundo!");
